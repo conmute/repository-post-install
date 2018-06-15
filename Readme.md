@@ -27,10 +27,20 @@ Currently only Ubuntu supports
 
 * [ ] Avoid repeatables lik in `_install_nvm.sh` file for checks
 * [ ] Update structure to enable support for various distros
-* Improve messeging:
+* [ ] Improve messeging:
   * [ ] Lessen the output, make it more compact and hide success output, but show promts and errors
   * [ ] Add some colors
 * [ ] Good error handling resolution
+* [ ] Add options installed programes like Telegram to be runned at startup
+* [ ] Copy visual look and setup of XFCE desktop (or others) configuration
+* [ ] Add screenshots of how it works and provide a solution for diferent paths:
+  
+  * [ ] Front End development
+  * [ ] Full Stack development
+  * [ ] Java
+  * [ ] and etc.
+
+  I think this stuff can grow into some kind of tooling for ease of setup and start development independent wether repository has this or not
 
 ## Usefull links:
 
