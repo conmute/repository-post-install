@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ -x "$(command -v telegram)" ]; then
+if [ ! -f /opt/telegram/Telegram.sh ]; then
   echo 'Info: telegram is already installed.' >&2
   return
 fi
