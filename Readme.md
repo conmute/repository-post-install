@@ -2,9 +2,19 @@
 
 I just did this to simplify my reinstalls for home/work purposes
 
-Currently only Ubuntu supports
+## How to use
+
+Just run from the shell:
+
+```. run.sh```
+
+Or:
+
+```source run.sh```
 
 ## What it does:
+
+Currently only for Ubuntu and supports only:
 
 * Installs:
   * Updage the system
@@ -19,9 +29,9 @@ Currently only Ubuntu supports
   * Slack
 
 * Setups:
-  * SSH
-  * GPG
-  * GIT
+  * SSH (loops through prvate keys)
+  * GPG (just copies the `.gnupg` folder)
+  * GIT (setup global variables to git and links gpg keys as well)
 
 ## ToDo:
 
