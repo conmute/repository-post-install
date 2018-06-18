@@ -6,7 +6,7 @@ install_cmd=(
 install_options=(
     update "Updage the system" off
     vsc "Visual Studio Code" on
-    nvm "NVM: Node.js, NPM and NPX" on
+    nvm "NVM: Node.js, NPM, YARN and NPX" on
     git "Git" on
     jre "JRE" on
     vlc "VLC Media Player" on
