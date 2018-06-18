@@ -37,6 +37,16 @@ Currently only Ubuntu supports
   * [ ] Configure if user want to auto accept all promts, aka `-y` to all runned statements
   * [ ] If not provide more verbose messaging to what is being done, and keep the stuff done in background... Maybe...
 * [ ] Think about autoupgrades all the time when working with packages...
+* [ ] Use diff tool to add the diferences from backup, and solution to resolve this manually
+  * [ ] Copy keyboard shortcuts
+  * [ ] Keyboard layout
+  * [ ] XFCE4 settings configuration
+
+  Resource: https://unix.stackexchange.com/a/353936 - from where which stuff to copy
+
+* [ ] Copy configuration of programms depending on the Distro/OS, must be added to each installation option
+  * [ ] Browser configuration and setup
+  * [ ] VSCode configuration ...
 * [ ] Add screenshots of how it works and provide a solution for diferent paths:
   
   * [ ] Front End development
