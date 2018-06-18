@@ -7,6 +7,7 @@ setup_options=(
     ssh "Copy and add SSH keys from the store" off
     gpg "Copy and add GPG keys from a store" off
     git "Set GIT global configuration" off
+    desktop "Set Desktop configuration (XFCE4) (TBD)" off
 )
 setup_choices=$("${setup_cmd[@]}" "${setup_options[@]}" 2>&1 >/dev/tty)
 
