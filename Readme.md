@@ -33,6 +33,10 @@ Currently only Ubuntu supports
 * [ ] Good error handling resolution
 * [ ] Add options installed programes like Telegram to be runned at startup
 * [ ] Copy visual look and setup of XFCE desktop (or others) configuration
+* [ ] Enhance dialogs messaging so user should make less actions
+  * [ ] Configure if user want to auto accept all promts, aka `-y` to all runned statements
+  * [ ] If not provide more verbose messaging to what is being done, and keep the stuff done in background... Maybe...
+* [ ] Think about autoupgrades all the time when working with packages...
 * [ ] Add screenshots of how it works and provide a solution for diferent paths:
   
   * [ ] Front End development
