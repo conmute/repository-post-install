@@ -25,6 +25,8 @@ Currently only Ubuntu supports
 
 ## ToDo:
 
+* [ ] **Important!** Licensing, MIT no waranties usage
+* [ ] **Important!** Add tests!
 * [ ] Avoid repeatables lik in `_install_nvm.sh` file for checks
 * [ ] Update structure to enable support for various distros
 * [ ] Improve messeging:
