@@ -13,3 +13,10 @@ else
     echo "Installing curl"
     sudo apt-get install curl
 fi
+
+if [ -d /usr/share/build-essential ]; then
+    echo 'Info: `build-essential` is already installed.' >&2
+else
+    echo "Installing build-essential"
+    sudo apt-get install build-essential
+fi
