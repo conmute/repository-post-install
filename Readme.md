@@ -6,11 +6,14 @@ I just did this to simplify my reinstalls for home/work purposes
 
 Just run from the shell:
 
-```. run.sh```
+```bash
+cd ubuntu
+. run.sh
+# Or
+source run.sh
+```
 
-Or:
-
-```source run.sh```
+Cuurently best support for Ubuntu
 
 ## What it does:
 
