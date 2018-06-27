@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ -x "$(command -v gpg)" ]; then
     echo "Already installed: GPG"
 else
