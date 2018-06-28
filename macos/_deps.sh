@@ -7,6 +7,8 @@ if [ "$(whereis brew)" = "" ]; then
     brew tap caskroom/versions
     echo 'brew update'
     brew update
+    echo "installing coreutils"
+    brew install coreutils
 else
     echo "Brew already installed"
 fi
